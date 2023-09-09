@@ -1,0 +1,43 @@
+.products__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 24px;
+}
+
+.product {
+  width: 384px;
+  margin: 0 auto;
+}
+
+.product__title {
+  color: #030305;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 36px */
+  letter-spacing: 0.48px;
+  margin: 15px 0 17px 0;
+}
+
+.product__descriptions {
+  display: flex;
+  margin: 0 auto;
+  gap: 15px;
+}
+
+.product-description {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.product-description__title,
+.product-description__text {
+  margin: 0;
+}
+
+.product__link {
+  margin: 13px 0 40px 0;
+  width: 384px;
+}

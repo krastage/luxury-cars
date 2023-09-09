@@ -1,0 +1,25 @@
+.main-header {
+  width: 100%;
+  border-bottom: #e5e5e5 solid 1px;
+  padding: 25px 0 26px 0;
+}
+
+.main-header__container {
+  display: flex;
+  align-items: center;
+}
+
+.main-header__link {
+  color: #030305;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.main-header__list {
+  display: flex;
+  margin-left: 244px;
+  gap: 115px;
+}

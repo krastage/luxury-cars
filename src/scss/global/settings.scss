@@ -1,0 +1,52 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.black-button {
+  display: block;
+  background-color: #030305;
+  padding: 15px 0;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 24px */
+  letter-spacing: 0.32px;
+  text-transform: uppercase;
+}
+
+.title-2 {
+  color: #030305;
+  font-family: Roboto;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}

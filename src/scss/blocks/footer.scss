@@ -1,0 +1,22 @@
+.main-footer {
+  width: 100%;
+  border-top: #e5e5e5 solid 1px;
+  padding: 25px 0 26px 0;
+
+}
+
+.main-footer__container {
+  display: flex;
+  align-items: center;
+}
+
+.main-footer__text {
+  color: #030305;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 933px;
+  gap: 115px;
+}

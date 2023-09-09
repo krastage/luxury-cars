@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,KACE,SACA,yB","sources":["webpack://Webpack By Penguin/./src/scss/global/settings.scss"],"sourcesContent":["body {\r\n  margin: 0;\r\n  background-color: rgb(255, 127, 127);\r\n}\r\n"],"names":[],"sourceRoot":""}

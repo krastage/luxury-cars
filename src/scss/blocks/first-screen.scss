@@ -1,0 +1,29 @@
+.first-screen {
+  background: url('./../../public/img/background.png') no-repeat center center;
+  padding: 105px 0 154px 0;
+}
+
+.first-screen__title {
+  color: #030305;
+  font-family: Roboto;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 110%; /* 88px */
+  margin: 0 0 40px 0;
+}
+
+.first-screen__text {
+  color: #030305;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%; /* 20.8px */
+  max-width: 502px;
+  margin: 0 0 40px 0;
+}
+
+.first-screen__button {
+  max-width: 334px;
+}
